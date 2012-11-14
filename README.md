@@ -1,5 +1,8 @@
+NOTE: This project has been rewritten and moved [here](https://github.com/bagelstability/Montereal)
+
+
 Montereal -- your CouchDB managment server!
-=========================
+==========================================
 
 
 Configuration
